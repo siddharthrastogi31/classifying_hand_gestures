@@ -22,7 +22,7 @@ We consider 4 competing models:
 
 ## Result
 
-
+![](Results/Scatter-Matrix.png)
 Overall, the classification tree with complexity parameter cp = 0.05 has the better average accuracy. All models have
 a low variability in the estimates, with the classification tree models having a slightly larger variability compared to
 the logistic regression models.
