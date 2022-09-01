@@ -21,7 +21,6 @@ We consider 4 competing models:
 4. A logistic regression with only the last reading of the 8 sensors, hence with 8 features.
 
 ## Result
-
 ![](Results/classifier_accuracy.png)
 Overall, the classification tree with complexity parameter cp = 0.05 has the better average accuracy. All models have
 a low variability in the estimates, with the classification tree models having a slightly larger variability compared to
